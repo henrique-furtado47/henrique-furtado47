@@ -12,7 +12,6 @@
 - 🐍 Uso Python para automações, scripts e backend  
 - 🌐 Trabalho com Vue.js para interfaces web modernas e reativas  
 - ⚙️ Gosto de otimizar processos e criar aplicações que facilitam a vida  
-- 🎮 Também desenvolvo jogos e aplicações educativas usando lógica e programação  
 
 ---
 
@@ -36,7 +35,7 @@
 ---
 ## Contato
 
-[![E-mail](https://img.shields.io/badge/Email-seuemail%40exemplo.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique.furtadoifc@gmail.com)  
+[![E-mail](https://img.shields.io/badge/Email-henrique.furtadoifc@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique.furtadoifc@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Furtado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-furtado-7b8b492b9/)  
 
 ---
