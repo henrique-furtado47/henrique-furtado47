@@ -34,12 +34,10 @@
 - 🏥 Projetos acadêmicos na área de sistemas de informação  
 
 ---
-
 ## Contato
 
-- 📫 E-mail: henrique.furtadoifc@gmail.com
-- <a href="https://www.linkedin.com/in/henrique-furtado-7b8b492b9/">🔗 LinkedIn</a>
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-furtado-7b8b492b9/)
+[![E-mail](https://img.shields.io/badge/Email-seuemail%40exemplo.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique.furtadoifc@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Furtado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-furtado-7b8b492b9/)  
 
 ---
 
