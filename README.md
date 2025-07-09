@@ -39,7 +39,7 @@
 
 - 📫 E-mail: henrique.furtadoifc@gmail.com
 - <a href="https://www.linkedin.com/in/henrique-furtado-7b8b492b9/">🔗 LinkedIn</a>
-
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-furtado-7b8b492b9/)
 
 ---
 
