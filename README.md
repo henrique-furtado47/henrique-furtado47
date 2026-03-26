@@ -21,6 +21,14 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=henrique-furtado47f&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
 ![Linguagens frequentes](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=henrique-furtado47&layout=compact&theme=tokyonight)
 
 ---
