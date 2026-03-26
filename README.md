@@ -25,8 +25,8 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=henrique-furtado47f&theme=tokyonight" alt="GitHub Streak" />
+<div align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=henrique-furtado47&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ![Linguagens frequentes](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=henrique-furtado47&layout=compact&theme=tokyonight)
