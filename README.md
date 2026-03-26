@@ -25,7 +25,8 @@
 
 ### 📊 Estatísticas do GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=henrique-furtado47&theme=tokyonight&border_radius=2.2&exclude_days=Sun%2CSat&card_width=534)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=henrique-furtado47&theme=tokyonight&border_radius=2.2&exclude_days=Sun%2CSat&card_width=534)
+<br>
 ![Linguagens frequentes](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=henrique-furtado47&layout=compact&theme=tokyonight)
 
 ---
